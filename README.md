@@ -1,2 +1,2 @@
 # 06-Capstone-Project
-Expository Data Analysis
+Exploratory Data Analysis
